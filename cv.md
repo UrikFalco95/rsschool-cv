@@ -2,7 +2,7 @@
 
 1. Yuriy Nikolaev
 2. * my phone: +79501762691
-   * my mail: zmey01gor95@mail.ru
+   * my mail: zmey01gor95@mail.ru, yurikkumunren@gmail.com
 3. На этом курсе мне хочется научтися создавать и верстать сайты. Хочется потом устроиться на работу по этому же направлению. Гланой целью для меня является понятие языка JavaScript. Надеюсь с помощью epam я смогу это осуществить.
 4. HTML, CSS, Photoshop, Illustrator.
 5. Онлай курс по HTML.
